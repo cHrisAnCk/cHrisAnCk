@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cHrisAnCk&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.cuantarazon.com%2F1216327%2Fmemes-dolorosamente-familiares-sobre-programacion&psig=AOvVaw38xcaF-zu4pta5-ePerGjl&ust=1691550481413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCait6KzIADFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cHrisAnCk&icon=1&color=2)](https://visitcount.itsvg.in)
